@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm [adavidoaiei](https://github.com/adavidoaiei),
 ## 📫 Connect
 
 - [GitHub](https://github.com/adavidoaiei)
-- [LinkedIn](#) <!-- Add your LinkedIn if you want -->
-- [Email](mailto:your-email@example.com) <!-- Replace with your email if desired -->
+- [LinkedIn](https://www.linkedin.com/in/adavidoaiei/) <!-- Add your LinkedIn if you want -->
+- [Email](mailto:cornel.adavidoaiei@gmail.com) <!-- Replace with your email if desired -->
 
 ## 💡 Highlighted Projects
 
