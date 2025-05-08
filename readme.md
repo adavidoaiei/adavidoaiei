@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm [adavidoaiei](https://github.com/adavidoaiei),
 
 ## 🛠️ Tech & Tools
 
-- Languages: Python, Go, JavaScript, Bash
+- Languages: Python, C#, PHP, JavaScript, Bash
 - Cloud: AWS, Azure, GCP
-- DevOps: Docker, Kubernetes, Terraform, GitHub Actions
-- Databases: PostgreSQL, MongoDB, Redis
+- DevOps: Docker, Linux, GitHub Actions
+- Databases: SQLLite, MySQL, SQL Server,MongoDB
 
 ## 📈 GitHub Stats
 
